@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,sql,dotnet,postman,git,github,html,css,js,bootstrap,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=csharp,sql,dotnet,postman,git,github,html,css,js,bootstrap,vscode&perline=14" />
   </a>
 </p>
 
